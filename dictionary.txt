@@ -1,0 +1,18 @@
+print 50
+println 40
+printf 35
+priority 10
+private 8
+process 20
+prototype 5
+promise 7
+provider 3
+procedure 6
+auto 100
+autocomplete 80
+automatic 90
+autumn 40
+authority 60
+author 50
+autonomy 30
+
